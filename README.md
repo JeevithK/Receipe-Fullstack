@@ -1,4 +1,5 @@
-# 🍽️ Full Stack Recipe App (MERN + JWT Auth)
+# 🍽️ Full Stack Recipe App (MERN + JWT Auth) 
+## No much CSS 😊
 
 A full-stack web application to browse, create, and manage recipes. Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with secure JWT-based authentication.
 
