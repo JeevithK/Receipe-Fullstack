@@ -25,12 +25,3 @@ A full-stack web application to browse, create, and manage recipes. Built using 
 - **Other Tools:** Multer (image upload), Dotenv, CORS, Nodemon
 
 ---
-
-## 📸 Screenshots
-
-_Add your screenshots here_
-
----
-
-## 📁 Project Structure
-
